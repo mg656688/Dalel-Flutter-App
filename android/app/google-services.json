@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "815491788698",
+    "firebase_url": "https://dalel-12a8f-default-rtdb.firebaseio.com",
+    "project_id": "dalel-12a8f",
+    "storage_bucket": "dalel-12a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815491788698:android:ca84523f61e5d563b0d423",
+        "android_client_info": {
+          "package_name": "com.example.dalel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQwKm0AGe7rvSp8mK-J5-Vh6ePkM3ntU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815491788698:android:dfbeada0e9df33e0b0d423",
+        "android_client_info": {
+          "package_name": "com.wahdan.dalel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQwKm0AGe7rvSp8mK-J5-Vh6ePkM3ntU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
